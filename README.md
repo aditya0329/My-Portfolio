@@ -1,2 +1,2 @@
 # My-Portfolio
-Personal Portfolio Website made in Vanilla JS
+This is my personal website where I showed my skills and projects.
